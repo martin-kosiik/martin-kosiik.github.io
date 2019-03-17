@@ -1,4 +1,5 @@
 ## Bachelor thesis
+### The Geopolitics of Repressions
 **Abstract** 
 
 I study how geopolitical concerns influence attitudes of a state toward its minorities. I exploit the Hitler rise to power in 1933 as an
