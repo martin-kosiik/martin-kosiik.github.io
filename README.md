@@ -14,3 +14,5 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 
 ## CV
 [Dowmload here](https://martin-kosiik.github.io/CV.pdf) 
+
+## Other Projects
