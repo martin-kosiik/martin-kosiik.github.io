@@ -9,7 +9,9 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 
 [Latest draft](https://martin-kosiik.github.io/Geopolitics_of_Repressions.pdf)
 
-[Presentation](https://martin-kosiik.github.io/Presentation.pdf)
+[Presentation (Metropolis theme)](https://martin-kosiik.github.io/Thesis_presentation.pdf)
+
+[Presentation (Boadilla theme)](https://martin-kosiik.github.io/Presentation_Boadilla.pdf)
 
 [Github repository](https://github.com/martin-kosiik/Geopolitics-of-Repressions)
 
