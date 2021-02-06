@@ -7,7 +7,7 @@ exogenous shock to Soviet-German relations. Using the digitized archival data on
 police (NKVD), I apply difference-in-differences and synthetic control method to estimate how changing geopolitical relations influenced
 repressions of Germans in the USSR. Both models show that arrests of Germans relative to other minorities increased after 1933.
 
-[Latest draft](https://martin-kosiik.github.io/Geopolitics_of_Repressions.pdf)
+[Draft](https://martin-kosiik.github.io/Geopolitics_of_Repressions.pdf)
 
 [Online appendix](https://martin-kosiik.github.io/online_appendix.pdf)
 
@@ -18,7 +18,8 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 [Github repository](https://github.com/martin-kosiik/Geopolitics-of-Repressions)
 
 ## Other Projects
-
+### Impact of Rural Employment Guarantee on Deforestation: Evidence from India
+[Draft](https://martin-kosiik.github.io/Dev_econ___final_paper.pdf)
 
 ## CV
 [Dowmload here](https://martin-kosiik.github.io/CV.pdf) 
