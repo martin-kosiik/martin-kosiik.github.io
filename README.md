@@ -21,6 +21,9 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 ### Impact of Rural Employment Guarantee on Deforestation: Evidence from India
 [Draft](https://martin-kosiik.github.io/Dev_econ___final_paper.pdf)
 
+### The Effect of Military Campaigns on Political Identity: Evidence from Sherman's March
+[Draft](https://martin-kosiik.github.io/sherman_march_draft.pdf)
+
 ## CV
 [Dowmload here](https://martin-kosiik.github.io/CV.pdf) 
 
