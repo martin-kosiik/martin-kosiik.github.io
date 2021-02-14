@@ -23,6 +23,7 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 
 ### The Effect of Military Campaigns on Political Identity: Evidence from Sherman's March
 [Draft](https://martin-kosiik.github.io/sherman_march_draft.pdf)
+
 **Abstract**
 
 I use the military march of Union general William Sherman during the American Civil War to estimate the effects of wartime violence and destruction on post-war voting and political outcomes. 
