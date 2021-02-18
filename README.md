@@ -22,7 +22,6 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 [Draft](https://martin-kosiik.github.io/Dev_econ___final_paper.pdf)
 
 ### The Effect of Military Campaigns on Political Identity: Evidence from Sherman's March
-[Draft](https://martin-kosiik.github.io/sherman_march_draft.pdf)
 
 **Abstract**
 
@@ -30,6 +29,8 @@ I use the military march of Union general William Sherman during the American Ci
 The results show small and insignificant effects of the march on Confederate monuments construction and lynchings. 
 Only for voting outcomes I find borderline significant effects for some specifications. Specifically, the instrumental variable estimates imply that the march increased the Democratic party vote share by around 10 percentage point, however the estimated coefficients diminish over time. 
 Overall, the results that Sherman's march suggest did not have a transformative impact on the politics in the South.  
+
+[Draft](https://martin-kosiik.github.io/sherman_march_draft.pdf)
 
 ## CV
 [Dowmload here](https://martin-kosiik.github.io/CV.pdf) 
