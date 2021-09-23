@@ -32,6 +32,9 @@ Overall, the results that Sherman's march suggest did not have a transformative 
 
 [Draft](https://martin-kosiik.github.io/sherman_march_draft.pdf)
 
+[Final version for master thesis](https://martin-kosiik.github.io/sherman_march_draft.pdf)
+
+
 [Presentation](https://martin-kosiik.github.io/sherman_march_presentation.pdf)
 
 ## CV
