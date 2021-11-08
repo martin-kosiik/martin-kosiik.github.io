@@ -18,6 +18,9 @@ repressions of Germans in the USSR. Both models show that arrests of Germans rel
 [Github repository](https://github.com/martin-kosiik/Geopolitics-of-Repressions)
 
 ## Other Projects
+### Impact of water access and quality on education and health outcomes
+[Presentation](https://www.dropbox.com/s/32on8b6xwfw1erk/india_water.pdf?dl=1)
+
 ### Impact of Rural Employment Guarantee on Deforestation: Evidence from India
 [Draft](https://martin-kosiik.github.io/Dev_econ___final_paper.pdf)
 
