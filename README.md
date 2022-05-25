@@ -40,6 +40,11 @@ Overall, the results that Sherman's march suggest did not have a transformative 
 
 [Presentation](https://martin-kosiik.github.io/sherman_march_presentation.pdf)
 
+### Spatially optimal targeting of interventions to reduce air pollution
+*Very preliminary*
+[Presentation](https://martin-kosiik.github.io/Spatially_optimal_targeting_of_interventions_to_reduce_air_pollution.pdf)
+
+
 ## CV
 [Dowmload here](https://martin-kosiik.github.io/CV.pdf) 
 
